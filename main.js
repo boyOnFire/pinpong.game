@@ -3,7 +3,7 @@ let scores = document.querySelectorAll(".score");
 const btns = document.querySelectorAll(".btn");
 
 const gameOptions = document.querySelector(".select-options");
-let winningScore = 3;
+let winningScore = 5;
 let gameOver = false;
 let p1Score = 0;
 let p2Score = 0;
